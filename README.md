@@ -1,3 +1,3 @@
 # Machine_Learning
-Name: Duong Thi Thu Phuonh
+Name: Duong Thi Thu Phuong
 ID: 11194195
